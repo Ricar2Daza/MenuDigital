@@ -1,0 +1,145 @@
+- generic [ref=f4e2]:
+  - banner [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - generic [ref=f4e5]:
+        - generic [ref=f4e6]: B
+        - generic [ref=f4e7]:
+          - heading "Buenos Humos" [level=1] [ref=f4e8]
+          - paragraph [ref=f4e9]: Catálogo oficial 2026
+      - generic [ref=f4e10]: "🕓 Horario: Lunes a domingo · 10:00 a. m. – 10:00 p. m."
+  - navigation [ref=f4e11]:
+    - searchbox "Buscar producto" [ref=f4e13]
+    - generic [ref=f4e14]:
+      - button "Importados" [ref=f4e15] [cursor=pointer]
+      - button "Combos desechables (kits)" [ref=f4e16] [cursor=pointer]
+      - button "Cápsulas y recargas" [ref=f4e17] [cursor=pointer]
+      - button "Baterías" [ref=f4e18] [cursor=pointer]
+      - button "Gomitas / Comestibles" [ref=f4e19] [cursor=pointer]
+      - button "Vape de nicotina" [ref=f4e20] [cursor=pointer]
+  - main [ref=f4e21]:
+    - generic [ref=f4e22]:
+      - heading "Importados" [level=2] [ref=f4e23]
+      - article [ref=f4e24]:
+        - generic [ref=f4e25]:
+          - heading "Cookies - Fried Bananas (2ml)" [level=3] [ref=f4e26]
+          - paragraph [ref=f4e27]: Strawberry Shortcake • 2000 mg terp sauce. Con postes centrales libres de metales pesados y bobinas de cerámica microcalibradas para vaporización a baja temperatura.
+          - generic [ref=f4e28]: $120.000
+        - button "Agregar" [ref=f4e30] [cursor=pointer]: +
+      - article [ref=f4e31]:
+        - generic [ref=f4e32]:
+          - heading "Muha med's (2ml)" [level=3] [ref=f4e33]
+          - paragraph [ref=f4e34]: Lleva la potencia y el sabor premium de California listo para usar, diseñado para durar y ofrecer un efecto potente gracias a la mezcla exclusiva de terpenos y cannabinoides.
+          - generic [ref=f4e35]: $115.000
+        - button "Agregar" [ref=f4e37] [cursor=pointer]: +
+      - article [ref=f4e38]:
+        - generic [ref=f4e39]:
+          - heading "Big Chief Duo (2 en 1 - 2ml)" [level=3] [ref=f4e40]
+          - paragraph [ref=f4e41]: Dispositivo premium de doble cámara diseñado para quienes buscan potencia y comodidad en una sola experiencia, permitiendo alternar entre ambas según el momento.
+          - generic [ref=f4e42]: $130.000
+        - button "Agregar" [ref=f4e44] [cursor=pointer]: +
+    - generic [ref=f4e45]:
+      - heading "Combos desechables (kits)" [level=2] [ref=f4e46]
+      - article [ref=f4e47]:
+        - generic [ref=f4e48]:
+          - heading "Combo Kit Básico Nacional" [level=3] [ref=f4e49]
+          - paragraph [ref=f4e50]: Batería recargable + cápsula nacional + cargador rápido incluido. Contenido del kit según listado.
+          - generic [ref=f4e51]: $70.000
+        - button "Agregar" [ref=f4e53] [cursor=pointer]: +
+      - article [ref=f4e54]:
+        - generic [ref=f4e55]:
+          - heading "Combo Kit con Batería Discreta" [level=3] [ref=f4e56]
+          - paragraph [ref=f4e57]: Batería discreta de la preferencia + cápsula nacional. Contenido del kit según listado.
+          - generic [ref=f4e58]: $85.000
+        - button "Agregar" [ref=f4e60] [cursor=pointer]: +
+    - generic [ref=f4e61]:
+      - heading "Cápsulas y recargas" [level=2] [ref=f4e62]
+      - article [ref=f4e63]:
+        - generic [ref=f4e64]:
+          - heading "Cápsula Nacional" [level=3] [ref=f4e65]
+          - paragraph [ref=f4e66]: Cápsula armada lista para usar en rosca 510 universal.
+          - generic [ref=f4e67]: $35.000
+        - button "Agregar" [ref=f4e69] [cursor=pointer]: +
+      - article [ref=f4e70]:
+        - generic [ref=f4e71]:
+          - heading "Recarga Nacional" [level=3] [ref=f4e72]
+          - paragraph [ref=f4e73]: Recarga nacional para uso con baterías estándar y kit universal 510.
+          - generic [ref=f4e74]: $30.000
+        - button "Agregar" [ref=f4e76] [cursor=pointer]: +
+    - generic [ref=f4e77]:
+      - heading "Baterías" [level=2] [ref=f4e78]
+      - article [ref=f4e79]:
+        - generic [ref=f4e80]:
+          - heading "Batería Básica / Estándar" [level=3] [ref=f4e81]
+          - paragraph [ref=f4e82]: Batería recargable esencial para cartuchos y cápsulas universales 510, incluye cable tipo C.
+          - generic [ref=f4e83]: $35.000
+        - button "Agregar" [ref=f4e85] [cursor=pointer]: +
+      - article [ref=f4e86]:
+        - generic [ref=f4e87]:
+          - heading "Batería Avanzada" [level=3] [ref=f4e88]
+          - paragraph [ref=f4e89]: Batería de mayor capacidad 500 mAh, tipo C y tres modos de regulación de voltaje entre 2.4V y 4.0V.
+          - generic [ref=f4e90]: $45.000
+        - button "Agregar" [ref=f4e92] [cursor=pointer]: +
+      - article [ref=f4e93]:
+        - generic [ref=f4e94]:
+          - heading "Batería Premium YOCAN KODO PRO" [level=3] [ref=f4e95]
+          - paragraph [ref=f4e96]: Diseño ultra compacto, pantalla OLED, voltaje de 1.8V a 4.2V.
+          - generic [ref=f4e97]: $60.000
+        - button "Agregar" [ref=f4e99] [cursor=pointer]: +
+    - generic [ref=f4e100]:
+      - heading "Gomitas / Comestibles" [level=2] [ref=f4e101]
+      - article [ref=f4e102]:
+        - generic [ref=f4e103]:
+          - heading "HAZE - 50 mg" [level=3] [ref=f4e104]
+          - paragraph [ref=f4e105]: Gomitas concentradas THCP-D8-D10. Sativa de Haze con 50 mg de pura potencia por gomita.
+          - generic [ref=f4e106]: $8.000
+        - button "Agregar" [ref=f4e108] [cursor=pointer]: +
+      - article [ref=f4e109]:
+        - generic [ref=f4e110]:
+          - heading "HAZE - 2 unidades" [level=3] [ref=f4e111]
+          - paragraph [ref=f4e112]: Pack de dos gomitas HAZE con 50 mg cada una. Energía, sabor y potencia en una sola porción.
+          - generic [ref=f4e113]: $14.000
+        - button "Agregar" [ref=f4e115] [cursor=pointer]: +
+      - article [ref=f4e116]:
+        - generic [ref=f4e117]:
+          - heading "HAZE - 3 unidades" [level=3] [ref=f4e118]
+          - paragraph [ref=f4e119]: Pack de tres gomitas HAZE para disfrutar la experiencia de forma prolongada.
+          - generic [ref=f4e120]: $20.000
+        - button "Agregar" [ref=f4e122] [cursor=pointer]: +
+      - article [ref=f4e123]:
+        - generic [ref=f4e124]:
+          - heading "TORCH - HULK" [level=3] [ref=f4e125]
+          - paragraph [ref=f4e126]: Comestibles con 750 mg de THC por unidad, diseñados para usuarios experimentados que buscan probar sus límites.
+          - generic [ref=f4e127]: $15.000
+        - button "Agregar" [ref=f4e129] [cursor=pointer]: +
+      - article [ref=f4e130]:
+        - generic [ref=f4e131]:
+          - heading "TORCH - HULK - 2 unidades" [level=3] [ref=f4e132]
+          - paragraph [ref=f4e133]: Paquete doble con dos gomitas Torch - Hulk de alta potencia.
+          - generic [ref=f4e134]: $24.000
+        - button "Agregar" [ref=f4e136] [cursor=pointer]: +
+      - article [ref=f4e137]:
+        - generic [ref=f4e138]:
+          - heading "TORCH - HULK - 3 unidades" [level=3] [ref=f4e139]
+          - paragraph [ref=f4e140]: Pack de tres gomitas Torch - Hulk para una experiencia más intensa y prolongada.
+          - generic [ref=f4e141]: $30.000
+        - button "Agregar" [ref=f4e143] [cursor=pointer]: +
+    - generic [ref=f4e144]:
+      - heading "Vape de nicotina" [level=2] [ref=f4e145]
+      - article [ref=f4e146]:
+        - generic [ref=f4e147]:
+          - heading "LOST MARY - 5.000 puff" [level=3] [ref=f4e148]
+          - paragraph [ref=f4e149]: Dispositivo desechable de nicotina de uso práctico, ideal para esos momentos que necesitamos algo para pasar el rato.
+          - generic [ref=f4e150]: $15.000
+        - button "Agregar" [ref=f4e152] [cursor=pointer]: +
+      - article [ref=f4e153]:
+        - generic [ref=f4e154]:
+          - heading "LOST MARY - 5.500 puff" [level=3] [ref=f4e155]
+          - paragraph [ref=f4e156]: Dispositivo de capacidad media con sabores frutales. Excelente relación costo beneficio.
+          - generic [ref=f4e157]: $20.000
+        - button "Agregar" [ref=f4e159] [cursor=pointer]: +
+      - article [ref=f4e160]:
+        - generic [ref=f4e161]:
+          - heading "LOST ANGEL - 50.000 puff" [level=3] [ref=f4e162]
+          - paragraph [ref=f4e163]: Híbrido modular de cápsula y batería adaptable. Tecnología Auto-Coil para conservar el sabor fresco hasta la última gota.
+          - generic [ref=f4e164]: $45.000
+        - button "Agregar" [ref=f4e166] [cursor=pointer]: +
